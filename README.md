@@ -60,7 +60,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-## Project Roles and Resposibilities
+## Project Roles and Responsibilities
 
 |        Role         |                          Responsibilities                           |
 | :-----------------: | :-----------------------------------------------------------------: |
