@@ -33,3 +33,6 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Secondary Text: #717171
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
+
+**Importance of User-Friendly Design**
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
