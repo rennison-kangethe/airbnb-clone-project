@@ -36,11 +36,11 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## Primary Pages
 
-| Page                  |                                            Description |
-| :-------------------- | -----------------------------------------------------: |
-| Property Listing View |      Grid display of available properties with filters |
+|         Page          |                      Description                       |
+| :-------------------: | :----------------------------------------------------: |
+| Property Listing View |   Grid display of available properties with filters    |
 | Listing Detailed View | Complete property details with images and booking form |
-| Simple Checkout View  |           Streamlined payment and booking confirmation |
+| Simple Checkout View  |      Streamlined payment and booking confirmation      |
 
 ## Importance of User-Friendly Design
 
@@ -62,16 +62,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ## Project Roles and Resposibilities
 
-| Role                |                                                    Responsibilities |
-| :------------------ | ------------------------------------------------------------------: |
-| Project Manager     |           Oversees timeline, coordinates team, manages deliverables |
-| Frontend Developers |                 Implements UI components, ensures responsive design |
-| Backend Developers  |            Builds APIs, manages database, implements business logic |
-| Designers           |        Creates mockups, maintains design system, ensures UX quality |
-| QA/Testers          |                   Writes test cases, performs testing, reports bugs |
-| DevOps Engineers    |           Manages deployment, CI/CD pipeline, server infrastructure |
-| Product Owner       | Defines requirements, prioritizes features, represents stakeholders |
-| Scrum Master        |   Facilitates agile processes, removes blockers, organizes meetings |
+|        Role         |                          Responsibilities                           |
+| :-----------------: | :-----------------------------------------------------------------: |
+|   Project Manager   |      Oversees timeline, coordinates team, manages deliverables      |
+| Frontend Developers |         Implements UI components, ensures responsive design         |
+| Backend Developers  |      Builds APIs, manages database, implements business logic       |
+|      Designers      |    Creates mockups, maintains design system, ensures UX quality     |
+|     QA/Testers      |          Writes test cases, performs testing, reports bugs          |
+|  DevOps Engineers   |      Manages deployment, CI/CD pipeline, server infrastructure      |
+|    Product Owner    | Defines requirements, prioritizes features, represents stakeholders |
+|    Scrum Master     |  Facilitates agile processes, removes blockers, organizes meetings  |
 
 ## UI Component Patterns
 
