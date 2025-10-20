@@ -27,7 +27,9 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Background: #FFFFFF
 - Text: #222222
 - Secondary Text: #717171
-  **Typography:**
+
+**Typography:**
+
 - Secondary Text: #717171
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
