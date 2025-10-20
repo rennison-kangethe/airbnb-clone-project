@@ -36,10 +36,11 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## Primary Pages
 
-| Page | Description |
-|Property Listing View| Grid display of available properties with filters |
+| Page                  |                                            Description |
+| :-------------------- | -----------------------------------------------------: |
+| Property Listing View |      Grid display of available properties with filters |
 | Listing Detailed View | Complete property details with images and booking form |
-| Simple Checkout View | Streamlined payment and booking confirmation |
+| Simple Checkout View  |           Streamlined payment and booking confirmation |
 
 **Color Styles:**
 
